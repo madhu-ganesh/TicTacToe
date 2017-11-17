@@ -1,3 +1,3 @@
 # TicTacToe
 
-code for AI class :)
+code for AI class :):)
